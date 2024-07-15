@@ -15,5 +15,9 @@
     "autoprefixer": "^10.4.19",
     "decap-server": "^3.0.4",
     "less": "^4.2.0"
+  },
+  "devDependencies": {
+    "@stackbit/cms-git": "^1.0.4",
+    "@stackbit/types": "^2.0.3"
   }
 }
